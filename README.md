@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @cyybxrgsouraabh
-- 👀 I’m interested in Coding, Calisthenics and Dance 
-- 🌱 I’m currently learning Java and Web Dev
+- 👋 Hi, I’m Souraabh
+- I specialize in web development 
 - 📫 How to reach me (sourabhsinghbisht0@gmail.com)
 
 <!---
