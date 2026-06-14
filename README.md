@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Souraabh
+- 👋 Hi, I’m 
 - I specialize in web development 
 - 📫 How to reach me (sourabh.internships@gmail.com)
 
